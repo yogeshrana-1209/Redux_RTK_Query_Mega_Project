@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "e9b6",
+      "name": "Kristen Jacobi"
+    },
+    {
+      "id": "a232",
+      "name": "Woodrow McLaughlin"
+    },
+    {
+      "id": "069c",
+      "name": "Derrick Richards"
+    },
+    {
+      "id": "2ff8",
+      "name": "Eric Stewart"
+    },
+    {
+      "id": "2960",
+      "name": "Jan Carroll"
+    },
+    {
+      "id": "1484",
+      "name": "Denise Bode"
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Trip",
+      "userId": 1
+    }
+  ],
+  "photos": []
+}
