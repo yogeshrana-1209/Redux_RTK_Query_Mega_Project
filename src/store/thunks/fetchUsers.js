@@ -12,7 +12,7 @@ const fetchUsers = createAsyncThunk('users/fetch', async () => {
     await pause(2000);
 
     //return the data
-    return response.data
+    return response.data;
 });
 
 //While we create the AsyncThunks then below 3 property's are automatically assign
