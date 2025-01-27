@@ -17,20 +17,137 @@
       "name": "Eric Stewart"
     },
     {
-      "id": "2960",
-      "name": "Jan Carroll"
-    },
-    {
       "id": "1484",
       "name": "Denise Bode"
     }
   ],
   "albums": [
     {
-      "id": 10,
+      "id": "10",
       "title": "Trip",
       "userId": 1
+    },
+    {
+      "id": "e7c1",
+      "userId": "069c",
+      "title": "Handcrafted Ceramic Pizza"
+    },
+    {
+      "id": "f1f7",
+      "userId": null,
+      "title": "Generic Plastic Shoes"
+    },
+    {
+      "id": "6268",
+      "userId": "a232",
+      "title": "Ergonomic Cotton Gloves"
+    },
+    {
+      "id": "8c49",
+      "userId": "e9b6",
+      "title": "Modern Aluminum Sausages"
+    },
+    {
+      "id": "046a",
+      "userId": "2ff8",
+      "title": "Electronic Gold Sausages"
+    },
+    {
+      "id": "6008",
+      "userId": "2ff8",
+      "title": "Elegant Silk Chips"
+    },
+    {
+      "id": "f3ca",
+      "userId": "2ff8",
+      "title": "Unbranded Gold Tuna"
+    },
+    {
+      "id": "afc4",
+      "userId": "1484",
+      "title": "Rustic Concrete Pizza"
+    },
+    {
+      "id": "880a",
+      "userId": "e9b6",
+      "title": "Handcrafted Plastic Gloves"
+    },
+    {
+      "id": "a713",
+      "userId": null,
+      "title": "Handcrafted Steel Pants"
+    },
+    {
+      "id": "3062",
+      "userId": null,
+      "title": "Handcrafted Gold Chicken"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "1508",
+      "albumId": "e7c1",
+      "url": "https://picsum.photos/seed/2rahzU/3693/3027"
+    },
+    {
+      "id": "d083",
+      "albumId": "afc4",
+      "url": "https://picsum.photos/seed/Mj816Em/1369/2076"
+    },
+    {
+      "id": "9d95",
+      "albumId": "e7c1",
+      "url": "https://loremflickr.com/1599/3610?lock=6263798343046827"
+    },
+    {
+      "id": "92a1",
+      "albumId": "e7c1",
+      "url": "https://loremflickr.com/3935/3036?lock=8091586015048820"
+    },
+    {
+      "id": "9ad3",
+      "albumId": "6268",
+      "url": "https://picsum.photos/seed/Atepi/2956/3474"
+    },
+    {
+      "id": "cc55",
+      "albumId": "8c49",
+      "url": "https://picsum.photos/seed/KhPWK31iG/2428/3735"
+    },
+    {
+      "id": "2609",
+      "albumId": "8c49",
+      "url": "https://picsum.photos/seed/zfOX458of/2755/2032"
+    },
+    {
+      "id": "e8c9",
+      "albumId": "880a",
+      "url": "https://picsum.photos/seed/to1SKWi5z/307/799"
+    },
+    {
+      "id": "8aab",
+      "albumId": "f1f7",
+      "url": "https://picsum.photos/seed/Npkmk0/3511/3178"
+    },
+    {
+      "id": "62b9",
+      "albumId": "a713",
+      "url": "https://picsum.photos/seed/hXsFBLj/2640/2072"
+    },
+    {
+      "id": "f240",
+      "albumId": "f1f7",
+      "url": "https://picsum.photos/seed/dIqZntfub/248/3379"
+    },
+    {
+      "id": "6e5d",
+      "albumId": "f1f7",
+      "url": "https://picsum.photos/seed/MKfFiZ/2911/1396"
+    },
+    {
+      "id": "baff",
+      "albumId": "f1f7",
+      "url": "https://picsum.photos/seed/maLuqHw/917/1993"
+    }
+  ]
 }

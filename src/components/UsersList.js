@@ -93,7 +93,7 @@ function UsersList() {
         <Button
           loading={isCreatingUser}
           onClick={handleUserAdd}
-          className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg shadow-md transition-colors duration-200"
+          className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg shadow-md transition-colors duration-200"
         >
           + Add User
         </Button>
